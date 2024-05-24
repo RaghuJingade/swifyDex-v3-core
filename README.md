@@ -1,7 +1,5 @@
 # SwifyDex V3
 
-
-
 This repository contains the core smart contracts for the SwifyDex V3 Protocol.
 For higher level contracts, see the [swifydex-v3-periphery](https://github.com/Uniswap/swifydex-v3-periphery)
 repository.
